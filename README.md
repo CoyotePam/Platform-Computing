@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 - [x] Applies different font(s). (0.5 pt)
 - [x] Applies border and margins. (0.5 pt)
 - [x] I added a feature in which viewers could be directed to my favorite playlist on youtube.
--[x] I added a poll with boxes in which they could vote on which chocolate is their favorite.
+- [x] I added a poll with boxes in which they could vote on which chocolate is their favorite.
 
 ## Screenshot and/or Video Walkthrough
 
