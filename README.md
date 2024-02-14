@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="Images/Firstfullscreenshot.jpg" title='Screenshot of Top Part' width='' alt='Top Part of Website' />
+<img src="Firstscreenshot.png" title='Screenshot of Top Part' width='' alt='Top Part of Website' />
 <img src="Images/Secondscreenshot.jpg"  title='Screenshot of Bottom Part' width='' alt='Bottom Part of Website' />
 
 
